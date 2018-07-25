@@ -13,5 +13,8 @@
   "homepage": "https://github.com/thanhsangcao/bower-hair.git",
   "ignore": [
     "README.md"
-  ]
+  ],
+  "dependencies": {
+    "bower-hair": "*"
+  }
 }
